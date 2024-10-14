@@ -1,0 +1,1 @@
+data/words.txt (words_alpha.txt): https://github.com/dwyl/english-words/blob/master/words_alpha.txt
